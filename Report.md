@@ -209,7 +209,7 @@ grep -rl "function" ./technical/
 ```
 This command lists files in the ./technical/ directory that contain the term "function".
 
-Output:
+Output(cropped):
 
 ./technical/911report/chapter-11.txt
 ./technical/911report/chapter-12.txt
